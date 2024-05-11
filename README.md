@@ -1,4 +1,12 @@
 #Odin Recipes Project
 
-I started by creating an index.html file for my homepage.
-I then added a links to other pages containing recipes. I created first the lasagna.html file, adding a header with the name of the dish, and a photo. Then, i added an unordered list for the ingredients, then an ordered list for the steps needed. I'm now creating a template .html file for new recipes; I should have done this before then creating lasagna.html. 
+1. Created an index.html file for my homepage
+2. Created a folder recipes/
+3. Created lasagna.html inside recipes/ directory
+5. Filled index.html and lasagna.html with boilerplate HTML
+6. Added relative link to recipes/lasagna.html in index.html body
+7. Added image with absolute path in lasagna.html
+8. Created unordered list for ingredients and ordered lists for steps
+9. Created a layout template for future recipe
+10. Created crepes recipe file
+11. Created waffles recipe file
