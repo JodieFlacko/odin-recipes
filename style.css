@@ -7,7 +7,7 @@ body {
 h1 {
     text-align: center;
     padding: 1em;
-    margin: 0px;
+    margin-top: 0px;
     margin-bottom: 1.5em;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(5,5,80,1) 35%, rgba(0,212,255,1) 100%);
@@ -17,8 +17,17 @@ div.container {
     text-align: center;
     margin: 0px;
 }
+.recipes {
+    margin: 0 auto;
+}
+
 .homepage {
     display: inline-block;
+    margin: 0px 8.5em; 
+}
+
+.images {
+    margin-top: 24px;
 }
 
 img {
@@ -27,8 +36,6 @@ img {
 
 li {
     font-size: 24px;
-    margin-left: 9em;
-    margin-right: 9em;
 }
 a {
     text-decoration: none;
