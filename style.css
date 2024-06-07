@@ -54,9 +54,11 @@ a {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(5,5,80,1) 0%, rgba(1,187,232,1) 49%);
     color: black;
 }
+
 a:link, a:visited {
     color: black;
 }
+
 h3 {
     text-align: center;
     font-size: 32px;
